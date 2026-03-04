@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=220&section=header&text=Vatsal%20Keyal&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=Software%20Developer%20%7C%20Kolkata%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" />
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+%26+Backend+Developer+%F0%9F%9A%80;Building+Scalable+%26+Robust+Systems+%E2%9A%A1;Open+Source+Enthusiast+%F0%9F%8C%8D;Always+Learning%2C+Always+Growing+%F0%9F%93%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Full+Stack+%26+Backend+Developer+%F0%9F%9A%80;Building+Scalable+Systems+%E2%9A%A1;Always+Learning%2C+Always+Growing+%F0%9F%93%9A)](https://git.io/typing-svg)
 
 <!-- Profile Views & Followers -->
 <p>
@@ -31,7 +31,7 @@ name: Vatsal Keyal
 role: Software Developer
 location: Kolkata, West Bengal, India
 learning: Cloud Architecture & System Design
-fun_fact: I am very particular about clean code structures and practices.😄
+fun_fact: I am very particular about clean code structures and best practices.😄
 ```
 
 ## 🛠️ &nbsp;Tech Stack
