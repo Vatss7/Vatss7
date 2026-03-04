@@ -104,10 +104,6 @@ fun_fact: I am very particular about clean code structures and best practices.ğŸ
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
-
-<p>
-<img src="https://img.shields.io/badge/Thanks%20for%20visiting!-0d1117?style=for-the-badge&labelColor=161b22" />
-</p>
 </div>
 
 
