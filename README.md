@@ -29,37 +29,10 @@
 ```yaml
 name: Vatsal Keyal
 role: Software Developer
-location: Kolkata, West Bengal, India 🇮🇳
-currently_working_on: Building scalable backend systems & full-stack applications
+location: Kolkata, West Bengal, India
 learning: Cloud Architecture & System Design
-fun_fact: I debug with print statements and I'm not ashamed 😄
+fun_fact: I am very particular about clean code structures and practices.😄
 ```
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-- 🔭 I'm passionate about **Backend Engineering** & **Full Stack Development**
-- 🏗️ I love architecting **scalable, distributed systems**
-- ☁️ Experienced with **AWS**, **Azure**, & **Cloudflare**
-- 🐹 Big fan of **Go** for building performant microservices
-- 🤖 Built intelligent systems like **MediAid** & **ML-powered analysis tools**
-- ⚡ I enjoy working with **message queues** & **event-driven architectures**
-- 💬 Ask me about **Go, Node.js, Python, Cloud & DevOps**
-
-</td>
-<td valign="top" width="50%">
-
-<div align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vatss7&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" alt="Top Languages" />
-</div>
-
-</td>
-</tr>
-</table>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ &nbsp;Tech Stack
 
@@ -100,33 +73,6 @@ fun_fact: I debug with print statements and I'm not ashamed 😄
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 📊 &nbsp;GitHub Analytics
-
-<div align="center">
-<p>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vatss7&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://streak-stats.demolab.com?user=Vatss7&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
-</p>
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vatss7&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=161b22&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="95%"/>
-</div>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vatss7&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
-</div>
-
-<!-- Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## � &nbsp;Random Dev Quote
 
 <div align="center">
@@ -143,11 +89,11 @@ fun_fact: I debug with print statements and I'm not ashamed 😄
 <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/" target="_blank">
+<a href="https://linkedin.com/in/vatsal-keyal" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="mailto:" target="_blank">
+<a href="mailto:vatsal2206@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
 </div>
@@ -162,9 +108,6 @@ fun_fact: I debug with print statements and I'm not ashamed 😄
 <p>
 <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-0d1117?style=for-the-badge&labelColor=161b22" />
 </p>
-
-⭐ *Star my repos if you find them useful!*
-
 </div>
 
 
