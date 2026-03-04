@@ -51,7 +51,7 @@ fun_fact: I debug with print statements and I'm not ashamed 😄
 <td valign="top" width="50%">
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vatss7&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vatss7&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" alt="Top Languages" />
 </div>
 
 </td>
@@ -104,9 +104,9 @@ fun_fact: I debug with print statements and I'm not ashamed 😄
 
 <div align="center">
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vatss7&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Vatss7&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Vatss7&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+  <img height="180em" src="https://streak-stats.demolab.com?user=Vatss7&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=161b22&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" />
 </p>
 </div>
 
@@ -121,23 +121,17 @@ fun_fact: I debug with print statements and I'm not ashamed 😄
 ## 🏆 &nbsp;GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vatss7&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Vatss7&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 </div>
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🐍 &nbsp;Contribution Snake
+## � &nbsp;Random Dev Quote
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vatss7/Vatss7/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vatss7/Vatss7/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Vatss7/Vatss7/output/github-snake-dark.svg" />
-</picture>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </div>
-
-> 💡 *To enable the snake animation, add a GitHub Action workflow to your profile repo. See [setup instructions below](#-snake-animation-setup).*
 
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -173,42 +167,4 @@ fun_fact: I debug with print statements and I'm not ashamed 😄
 
 </div>
 
----
 
-<details>
-<summary>🐍 Snake Animation Setup</summary>
-
-<br>
-
-To enable the contribution snake animation, create a file at `.github/workflows/snake.yml` in your profile repository with the following content:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: Vatss7
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-Then run the workflow manually once from the **Actions** tab to generate the initial snake SVG.
-
-</details>
